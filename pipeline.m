@@ -151,7 +151,7 @@
 % Run this section first.
 % Follow the dialog boxes to select the ROI set and TIFF image files.
 
-image2signal
+ROI2signal
 
 
 %% Step 2: Detect and analyze fluorescence events

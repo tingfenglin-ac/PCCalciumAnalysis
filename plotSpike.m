@@ -990,10 +990,10 @@ end
         end
         FP=cat(1,FP,FolderPath);
         %FP{end}
-        Import_data=load([FN{end}(1:22) FN{end}(23:end)]);
+        Import_data = load(fullfile(FP{end}, FN{end}));
         signal=cat(3,signal,Import_data.activs);
     end
-    
+
     FN
     
     
