@@ -1,8 +1,5 @@
 # Fluorescence Signal Analysis Pipeline
 
-<img width="996" height="817" alt="image" src="https://github.com/user-attachments/assets/a582d263-aeca-41c4-8df0-b571a149b722" />
-
-
 A MATLAB pipeline for extracting ROI-based fluorescence signals from TIFF image stacks and detecting fluorescence events.
 
 The pipeline consists of two main steps:
@@ -22,6 +19,9 @@ ROI fluorescence signals
         ▼
 Fluorescence event analysis
 ```
+
+<img width="996" height="817" alt="image" src="https://github.com/user-attachments/assets/a582d263-aeca-41c4-8df0-b571a149b722" />
+
 
 ## Overview
 
