@@ -219,9 +219,9 @@ Then:
 
 ```text
 ROI fluorescence signals
-'''
+```
 
 
-# These codes were used in:
+## These codes were used in:
 Hansel, C*, Lin TF*. Cerebellum violates Marr-Albus predictions to train synapses on long-term anticipatory goals. bioXiv. 2026.
 Lin TF, Busch, S.E., Hansel, C*. Intrinsic and synaptic determinants of receptive field plasticity in Purkinje cells of the mouse cerebellum. Nature Communications. 2024.
